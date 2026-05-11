@@ -1,7 +1,7 @@
 {
     "name": "aer",
     "author": "fish",
-    "version": "1.0",
+    "version": "1.0.0",
     "description": "init",
     "fileApi": "https://fish-share.oss-cn-hangzhou.aliyuncs.com/mc/aer/modpack",
     "files": [

@@ -1,8 +1,8 @@
 {
     "name": "aer",
     "author": "fish",
-    "version": "1.0.0",
-    "description": "init",
+    "version": "1.0.1",
+    "description": "关闭钌的实体剔除功能",
     "fileApi": "https://fish-share.oss-cn-hangzhou.aliyuncs.com/mc/aer/modpack-lite",
     "files": [
         {
@@ -2872,6 +2872,10 @@
         {
             "path": "xaero/world-map/Multiplayer_frp-web.com/DIM-1/mw$-1699346769/caves/5/-1_-1.zip",
             "hash": "2c62a47b496175aba4c2df2d042f1a3bddc6ac00"
+        },
+        {
+            "path": "config/RuOK.toml",
+            "hash": "826a2556f8f1caee881478122582d8db9dcc1d6e"
         }
     ],
     "addons": [

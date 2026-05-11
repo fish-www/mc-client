@@ -1049,10 +1049,10 @@
       "keys": ""
     },
     "tweakFreeCamera": {
-      "keys": ""
+      "keys": "F8"
     },
     "tweakGammaOverride": {
-      "keys": ""
+      "keys": "F9"
     },
     "tweakHandRestock": {
       "keys": ""

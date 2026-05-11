@@ -35,7 +35,7 @@ chatLinksPrompt:true
 discrete_mouse_scroll:false
 invertYMouse:false
 realmsNotifications:true
-showSubtitles:false
+showSubtitles:true
 directionalAudio:false
 touchscreen:false
 bobView:true
@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["fabric"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","mod_resources","SnowySodiumStairs","file/机械动力：航空学汉化1.0fix7.zip"]
+incompatibleResourcePacks:["SnowySodiumStairs"]
 lastServer:
 lang:zh_cn
 chatVisibility:0
@@ -71,7 +71,7 @@ notificationDisplayTime:1.0
 useNativeTransport:true
 mainHand:"right"
 attackIndicator:1
-tutorialStep:movement
+tutorialStep:find_tree
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
@@ -149,7 +149,7 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.r
+key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
@@ -159,10 +159,10 @@ key_simulated.keyinfo.scroll_down:key.keyboard.unknown
 key_railways.keyinfo.bogey_menu:key.keyboard.left.alt
 key_railways.keyinfo.cycle_menu:key.keyboard.left.alt
 key_key.carry.desc:key.keyboard.unknown
-key_key.twilightforest.red_thread_vision:key.keyboard.unknown
-key_key.twilightforest.zoom:key.keyboard.z
 key_key.twilightforest.swap_hotbar:key.keyboard.v
+key_key.twilightforest.red_thread_vision:key.keyboard.unknown
 key_key.twilightforest.item_display_map_cycle:key.keyboard.c
+key_key.twilightforest.zoom:key.keyboard.z
 key_key.touhou_little_maid.stt_chat.desc:key.keyboard.x
 key_key.touhou_little_maid.dismount.desc:key.keyboard.c
 key_key.curios.open.desc:key.keyboard.g
@@ -275,7 +275,7 @@ key_key.shouldersurfing.enter_shoulder_surfing:key.keyboard.unknown
 key_key.ponder.ponder:key.keyboard.w
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
-key_create.keyinfo.rotate_menu:key.keyboard.unknown
+key_create.keyinfo.rotate_menu:key.keyboard.grave.accent
 key_create.keyinfo.shift_modifier:key.keyboard.left.shift
 key_create.keyinfo.ctrl_modifier:key.keyboard.left.control
 key_create.keyinfo.alt_modifier:key.keyboard.left.alt

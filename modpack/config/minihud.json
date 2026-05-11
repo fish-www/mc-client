@@ -244,11 +244,11 @@
     "villagerOfferPriceThreshold": 1.0
   },
   "InfoTypeToggles": {
-    "infoFPS": false,
+    "infoFPS": true,
     "infoMemoryUsage": false,
     "infoTimeIRL": true,
     "infoTimeWorld": false,
-    "infoWorldTimeFormatted": false,
+    "infoWorldTimeFormatted": true,
     "infoCoordinates": true,
     "infoCoordinatesScaled": false,
     "infoBlockPosition": false,
@@ -260,7 +260,7 @@
     "infoRotationPitch": false,
     "infoBlockBreakSpeed": false,
     "infoPlayerExperience": false,
-    "infoSpeed": false,
+    "infoSpeed": true,
     "infoSpeedAxis": false,
     "infoSpeedHV": false,
     "infoSprinting": false,

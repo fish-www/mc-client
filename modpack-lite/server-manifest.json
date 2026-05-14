@@ -454,10 +454,6 @@
             "hash": "e277fba0c94fea3c3f58d23bfa53d2eb457555f6"
         },
         {
-            "path": "mods/ysm-2.6.2-neoforge%2Bmc1.21.1-release.jar",
-            "hash": "07b7e49e48b31a1d2ff081adcf9b8b4c475547f0"
-        },
-        {
             "path": "mods/yuushya-1.21.0-neoforge-2.3.0.jar",
             "hash": "060f0961b08031d8054bebcf5328ce03797babb5"
         },
@@ -2876,6 +2872,10 @@
         {
             "path": "config/RuOK.toml",
             "hash": "826a2556f8f1caee881478122582d8db9dcc1d6e"
+        },
+        {
+            "path": "mods/ysm-2.6.5-neoforge%2Bmc1.21.1-release.jar",
+            "hash": "18bec74a5b7f3778ce162ddbbbd5555aff0eda2e"
         }
     ],
     "addons": [

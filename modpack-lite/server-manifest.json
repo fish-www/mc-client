@@ -1,8 +1,8 @@
 {
     "name": "aer",
     "author": "fish",
-    "version": "1.0.1",
-    "description": "关闭钌的实体剔除功能",
+    "version": "1.0.2",
+    "description": "mod 更新，修复拼音搜索问题",
     "fileApi": "https://fish-share.oss-cn-hangzhou.aliyuncs.com/mc/aer/modpack-lite",
     "files": [
         {

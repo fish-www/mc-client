@@ -1,8 +1,8 @@
 {
   "name": "aer",
   "author": "fish",
-  "version": "1.0.3",
-  "description": "mod 更新，新增机械动力附属：交错电网，无人机物流，betterfps，新增农夫乐事附属：果园乐事，烧烤乐事，末地乐事，暮色风味乐事，千古乐事",
+  "version": "1.0.4",
+  "description": "关闭 ars 的天空渲染，避免在下雨时导致游戏崩溃",
   "fileApi": "https://fish-share.oss-cn-hangzhou.aliyuncs.com/mc/aer/modpack-lite",
   "files": [
     {

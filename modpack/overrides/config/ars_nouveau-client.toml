@@ -59,7 +59,7 @@
 	#Use simplified renderer for Warp Portals
 	no_end_portal_render = false
 	#Disables the skyweave renderer. Disable if your sky is broken with shaders.
-	disable_skyweave = false
+	disable_skyweave = true
 	#Show spell tooltips with glyphs instead of plain text
 	glyphTooltips = true
 	#Enables transparent/opaque rendering of elements in the book GUI. Disable if it leads to crash with Sodium derivatives

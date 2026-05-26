@@ -10,6 +10,10 @@
       "hash": "826a2556f8f1caee881478122582d8db9dcc1d6e"
     },
     {
+      "path": "config/ars_nouveau-client.toml",
+      "hash": "872dd9db13e67f41b836d5991e07078f3d03fdfb"
+    },
+    {
       "path": "config/minihud.json",
       "hash": "85f9b30066235517b991d0c501f6df256cef8eb0"
     },

@@ -1,8 +1,8 @@
 {
     "name": "aer",
     "author": "fish",
-    "version": "1.0.5",
-    "description": "幻翼物流，可视性 mspt 预测，更多转向架，物流附加，sable 蓝图工具，线控学，更新了一部分 mod，静谧四季使用修复版本",
+    "version": "1.0.6",
+    "description": "添加 Design-n-Decor mod",
     "fileApi": "https://fish-share.oss-cn-hangzhou.aliyuncs.com/mc/aer/modpack-lite",
     "files": [
         {
@@ -76,6 +76,10 @@
         {
             "path": "mods/CreativeCore_NEOFORGE_v2.13.40_mc1.21.1.jar",
             "hash": "265c82bfd086afe96cf81fca0bee78256129adaa"
+        },
+        {
+            "path": "mods/Design-n-Decor-1.21.1-2.2b.jar",
+            "hash": "ffedb9864b755c2536c3dd3ae5d1eefa00b58d53"
         },
         {
             "path": "mods/EclipticSeasons-1.21.1-neoforge-0.13.0-rc-8.jar",

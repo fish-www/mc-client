@@ -1,8 +1,8 @@
 {
     "name": "aer",
     "author": "fish",
-    "version": "1.0.6",
-    "description": "添加 Design-n-Decor mod",
+    "version": "1.0.7",
+    "description": "添加了金蒲公英",
     "fileApi": "https://fish-share.oss-cn-hangzhou.aliyuncs.com/mc/aer/modpack",
     "files": [
         {
@@ -490,6 +490,62 @@
             "hash": "0b84464e97832d7415d08674cb0c53fb86410954"
         },
         {
+            "path": "kubejs/README.txt",
+            "hash": "3e56c097cd0c5be61b767a9a9ae73ae083d2eca9"
+        },
+        {
+            "path": "kubejs/assets/golden_dandelion/lang/zh_cn.json",
+            "hash": "6d1fcc79674d71531061a118d8935f324a561b89"
+        },
+        {
+            "path": "kubejs/assets/golden_dandelion/textures/item/golden_dandelion.png",
+            "hash": "1fb6ac946af84c1702360b19f0000b0f72f2263e"
+        },
+        {
+            "path": "kubejs/assets/kubejs/textures/block/example_block.png",
+            "hash": "87f5ec8c26493050fc83543af8d33f2d28a98766"
+        },
+        {
+            "path": "kubejs/assets/kubejs/textures/item/example_item.png",
+            "hash": "d9912cb709ad496b10f19f8b2c66d1e419eb760c"
+        },
+        {
+            "path": "kubejs/client_scripts/main.js",
+            "hash": "e6f23e21b25a366f2216fbf7da00ed7d34542f20"
+        },
+        {
+            "path": "kubejs/config/client.json",
+            "hash": "543ce77f954453d39da0ef6adad3f5e427fd4d8a"
+        },
+        {
+            "path": "kubejs/config/common.json",
+            "hash": "72bc0862d970e44dd5075bef3e74110f69d65a7d"
+        },
+        {
+            "path": "kubejs/config/probe-settings.json",
+            "hash": "5202224397edb2f8d353d3ff5cc105954f2ff56f"
+        },
+        {
+            "path": "kubejs/config/web_server.json",
+            "hash": "42cb29168c5b98d199636c29feb8da8abe5e779f"
+        },
+        {
+            "path": "kubejs/server_scripts/golden_dandelion.js",
+            "hash": "cd4384ed42a410ed9a40addf4934146d8543be7c"
+        },
+        {
+            "path": "kubejs/server_scripts/main.js",
+            "hash": "6249ded51466cfc7b94ae9796f8c2caec5dac539"
+        },
+        {
+            "path": "kubejs/startup_scripts/golden_dandelion.js",
+            "hash": "17393c0c72f041664b90f485b3458c9f073e19d1"
+        },
+        {
+            "path": "kubejs/startup_scripts/main.js",
+            "hash": "05ec115c372985dc9f77dd2513933aa8e90eba61"
+        },
+        {
             "path": "mods/-越肩-ShoulderSurfingAERO-NF-1.21.1-26.5.2.jar",
             "hash": "dc9310ea0e4d694e493b779ede9af46988f20cd5"
         },
@@ -592,6 +648,10 @@
         {
             "path": "mods/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar",
             "hash": "71bd6de2b01441d92be1e109879b76b7750bd787"
+        },
+        {
+            "path": "mods/ProbeJS-8.0.2.jar",
+            "hash": "1d7d75f040cf8f9b9bd7aa52a1ac5e82c3edb31f"
         },
         {
             "path": "mods/RollingGate-neoforge-1.21.1-1.1.0%2Bbuild.64.jar",
@@ -878,6 +938,10 @@
             "hash": "a8b9f1233336ca9fe4702bc2cc5a6f97ad5e3b65"
         },
         {
+            "path": "mods/kubejs-neoforge-2101.7.2-build.368.jar",
+            "hash": "edf131afd474151afe076ea975ce5fec5a206ad8"
+        },
+        {
             "path": "mods/ldlib2-neoforge-1.21.1-2.2.13-all.jar",
             "hash": "1283a9536addba6bffad275c457fc4db70cecf4a"
         },
@@ -952,6 +1016,10 @@
         {
             "path": "mods/railways-0.2.0%2Bneoforge-mc1.21.1.jar",
             "hash": "9d52eef0772b81de397271b98c0201a59733f9c6"
+        },
+        {
+            "path": "mods/rhino-2101.2.7-build.85.jar",
+            "hash": "3c8d34c7efe9e42fc90506acbf9fc842d36f9a42"
         },
         {
             "path": "mods/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar",

@@ -1,0 +1,43 @@
+{
+  "name": "fice",
+  "author": "fish",
+  "version": "0.0.1",
+  "description": "试运行",
+  "fileApi": "https://fish-share.oss-cn-hangzhou.aliyuncs.com/mc/fice/modpack",
+  "files": [
+    {
+      "path": "mods/lithium-fabric-0.24.5%2Bmc26.1.2.jar",
+      "hash": "1e4ca81344096b2ba70a378a24fe6ce189ff86f3"
+    },
+    {
+      "path": "mods/sodium-fabric-0.8.12%2Bmc26.1.2.jar",
+      "hash": "cd6c6236f0dcff03c7148414db220de32c934b5a"
+    },
+    {
+      "path": "mods/iris-fabric-1.10.9%2Bmc26.1.1.jar",
+      "hash": "c30e04509a1b284372cb9037b07714d4223ae91a"
+    },
+    {
+      "path": "mods/ferritecore-9.0.0-fabric.jar",
+      "hash": "eac76ff0f3753422c61b2c44487d0d195d88d4bc"
+    },
+    {
+      "path": "mods/fabric-carpet-26.1%2Bv260402.jar",
+      "hash": "f786a53c97e7caaa5b34c94309e79ed1201c0114"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "4b4ff988c82a99e3ab372aff5798e00a593bd86f"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "26.1.2"
+    },
+    {
+      "id": "fabric",
+      "version": "0.19.3"
+    }
+  ]
+}

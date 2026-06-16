@@ -1,10 +1,22 @@
 {
     "name": "fice",
     "author": "fish",
-    "version": "0.1.0",
-    "description": "添加大量辅助 mod",
+    "version": "0.1.1",
+    "description": "初始配置",
     "fileApi": "https://fish-share.oss-cn-hangzhou.aliyuncs.com/mc/fice/modpack",
     "files": [
+        {
+            "path": "config/minihud.json",
+            "hash": "df266fad7de1ef3b5347ef191dbdbc7b0847b262"
+        },
+        {
+            "path": "config/tweakeroo.json",
+            "hash": "4ff17d7ea2b81cdc1a812eb42332c82446795a49"
+        },
+        {
+            "path": "config/xaerohud.txt",
+            "hash": "517916c1f2e0a8b75735859edb7d692bba2c079e"
+        },
         {
             "path": "mods/BetterF3-18.0.2-Fabric-26.1.jar",
             "hash": "383ecca24482d1b1385ad25127fe78a0607a34c0"
@@ -86,6 +98,10 @@
             "hash": "c30e04509a1b284372cb9037b07714d4223ae91a"
         },
         {
+            "path": "mods/jecharacters-26.1.2-fabric-4.6.3.jar",
+            "hash": "8bbe2e12c6dca3c0d3c73d6685060929e697099e"
+        },
+        {
             "path": "mods/jei-26.1.2-fabric-29.6.2.31.jar",
             "hash": "1de8d3d19f11102b8ea174a0fbc5da0744e34d36"
         },
@@ -152,6 +168,10 @@
         {
             "path": "mods/yet_another_config_lib_v3-3.9.4%2B26.1-fabric.jar",
             "hash": "c167cc420d29af5d30a23ce9feb1330a25ce06db"
+        },
+        {
+            "path": "options.txt",
+            "hash": "6b392d020ffc77bf4908f1dc819ada13a2817ded"
         },
         {
             "path": "servers.dat",

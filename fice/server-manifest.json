@@ -1,43 +1,171 @@
 {
-  "name": "fice",
-  "author": "fish",
-  "version": "0.0.1",
-  "description": "试运行",
-  "fileApi": "https://fish-share.oss-cn-hangzhou.aliyuncs.com/mc/fice/modpack",
-  "files": [
-    {
-      "path": "mods/lithium-fabric-0.24.5%2Bmc26.1.2.jar",
-      "hash": "1e4ca81344096b2ba70a378a24fe6ce189ff86f3"
-    },
-    {
-      "path": "mods/sodium-fabric-0.8.12%2Bmc26.1.2.jar",
-      "hash": "cd6c6236f0dcff03c7148414db220de32c934b5a"
-    },
-    {
-      "path": "mods/iris-fabric-1.10.9%2Bmc26.1.1.jar",
-      "hash": "c30e04509a1b284372cb9037b07714d4223ae91a"
-    },
-    {
-      "path": "mods/ferritecore-9.0.0-fabric.jar",
-      "hash": "eac76ff0f3753422c61b2c44487d0d195d88d4bc"
-    },
-    {
-      "path": "mods/fabric-carpet-26.1%2Bv260402.jar",
-      "hash": "f786a53c97e7caaa5b34c94309e79ed1201c0114"
-    },
-    {
-      "path": "servers.dat",
-      "hash": "4b4ff988c82a99e3ab372aff5798e00a593bd86f"
-    }
-  ],
-  "addons": [
-    {
-      "id": "game",
-      "version": "26.1.2"
-    },
-    {
-      "id": "fabric",
-      "version": "0.19.3"
-    }
-  ]
+    "name": "fice",
+    "author": "fish",
+    "version": "0.1.0",
+    "description": "添加大量辅助 mod",
+    "fileApi": "https://fish-share.oss-cn-hangzhou.aliyuncs.com/mc/fice/modpack",
+    "files": [
+        {
+            "path": "mods/BetterF3-18.0.2-Fabric-26.1.jar",
+            "hash": "383ecca24482d1b1385ad25127fe78a0607a34c0"
+        },
+        {
+            "path": "mods/CustomSkinLoader_Universal-14.28.jar",
+            "hash": "b2d9bf46f3d672e2bef26a8e6de55401a7c0818e"
+        },
+        {
+            "path": "mods/IMBlocker-7.1.5-fabric-26.1%2B.jar",
+            "hash": "02ec2f2856e0bce584bc80e36420e1b6b8102d0f"
+        },
+        {
+            "path": "mods/InventoryProfilesNext-fabric-26.1.2-2.3.3.jar",
+            "hash": "ecfa5afed58b06e5929ffacec8a1116b7f08527f"
+        },
+        {
+            "path": "mods/Jade-mc26.1-Fabric-26.1.4.jar",
+            "hash": "55ea7b226495d807f2c95e03acca187aa17a1eaa"
+        },
+        {
+            "path": "mods/XaeroPlus-2.32.0%2Bfabric-26.1.2-WM1.41.0-MM26.1.0.jar",
+            "hash": "0e62185cefa6ee92e00ca397f994158fa439b4ca"
+        },
+        {
+            "path": "mods/appleskin-fabric-mc26.1.2-3.0.10.jar",
+            "hash": "8100276373646b6740bf20be59e9d8ed7ba24579"
+        },
+        {
+            "path": "mods/bettertab-2.2.0%2B26.1.2.jar",
+            "hash": "957536bcecd47925d42cba027d8de70b25ebfd9f"
+        },
+        {
+            "path": "mods/carpet-ams-addition-v26.1.4-beta.3-mc26.1.2.jar",
+            "hash": "49fb85031601bd86c303cffe545b4cff7c003d7e"
+        },
+        {
+            "path": "mods/carpet-org-addition-mc26.1.x-v1.44.0-2604242113.jar",
+            "hash": "308d2e163b4e74043e540b9df42f9bd5df1b2f9f"
+        },
+        {
+            "path": "mods/carpetgui-1.3.5-hotfix%2B26.1.jar",
+            "hash": "67429e1cc52a58e6da691f2251243a9ae7452512"
+        },
+        {
+            "path": "mods/carry.jar",
+            "hash": "6592a0d19be043982ec27bce38c7216007c0a322"
+        },
+        {
+            "path": "mods/cloth-config-26.1.154.jar",
+            "hash": "832f9047bc4af13587709c74f7c37e1c8579d1eb"
+        },
+        {
+            "path": "mods/entityculling-fabric-1.10.2-mc26.1.jar",
+            "hash": "389764754270070655fa5874b9df79f9f0a30ce4"
+        },
+        {
+            "path": "mods/fabric-api-0.152.1%2B26.1.2.jar",
+            "hash": "e48e773ec41ec1267fd8833fe90c256648cf74d0"
+        },
+        {
+            "path": "mods/fabric-carpet-26.1%2Bv260402.jar",
+            "hash": "f786a53c97e7caaa5b34c94309e79ed1201c0114"
+        },
+        {
+            "path": "mods/fabric-language-kotlin-1.13.12%2Bkotlin.2.4.0.jar",
+            "hash": "2bc17bb4275cc70a12e4ac35d139a71a30845720"
+        },
+        {
+            "path": "mods/ferritecore-9.0.0-fabric.jar",
+            "hash": "eac76ff0f3753422c61b2c44487d0d195d88d4bc"
+        },
+        {
+            "path": "mods/gugle-carpet-addition-v2.12.4%2Bbuild.88.jar",
+            "hash": "8ae6b43a8a438eb079cc9567ec70782e50d77348"
+        },
+        {
+            "path": "mods/iris-fabric-1.10.9%2Bmc26.1.1.jar",
+            "hash": "c30e04509a1b284372cb9037b07714d4223ae91a"
+        },
+        {
+            "path": "mods/jei-26.1.2-fabric-29.6.2.31.jar",
+            "hash": "1de8d3d19f11102b8ea174a0fbc5da0744e34d36"
+        },
+        {
+            "path": "mods/libIPN-fabric-26.1.2-6.8.0.jar",
+            "hash": "a4511c57a44de7728fd71d16ec62a7fddaeeb366"
+        },
+        {
+            "path": "mods/librarian-trade-finder-2.5.0.jar",
+            "hash": "98612c4168d5a5f68d53a76acbb717456870e568"
+        },
+        {
+            "path": "mods/litematica-fabric-26.1.2-0.27.6.jar",
+            "hash": "1700788ad1bcfd4f90a4f9f29ecb4ee5f65928a8"
+        },
+        {
+            "path": "mods/litematica-printer-26.1.1-3.2.2.jar",
+            "hash": "5a55cae5f9c1099f283292cb1f70dc492487f386"
+        },
+        {
+            "path": "mods/lithium-fabric-0.24.5%2Bmc26.1.2.jar",
+            "hash": "1e4ca81344096b2ba70a378a24fe6ce189ff86f3"
+        },
+        {
+            "path": "mods/malilib-fabric-26.1.2-0.28.6.jar",
+            "hash": "20b171995795c5938baa48e41a0932d3144dd7df"
+        },
+        {
+            "path": "mods/minihud-fabric-26.1.2-0.39.5.jar",
+            "hash": "ae50ab655a2223d10f5428284f5e6712f15e924c"
+        },
+        {
+            "path": "mods/modmenu-18.0.0-beta.1.jar",
+            "hash": "52fff4a942dd42d4bdb6d149d0396cbf2ce69016"
+        },
+        {
+            "path": "mods/owo-lib-0.13.0%2B26.1.jar",
+            "hash": "71d435de2aaa7c71767cd3f8388547eac5acc404"
+        },
+        {
+            "path": "mods/placeholder-api-3.0.0%2B26.1.jar",
+            "hash": "c1ce548549ec4517b9393985cefc65389e6f36d8"
+        },
+        {
+            "path": "mods/sodium-fabric-0.8.12%2Bmc26.1.2.jar",
+            "hash": "cd6c6236f0dcff03c7148414db220de32c934b5a"
+        },
+        {
+            "path": "mods/tweakermore-v3.31.0-mc26.1.2.jar",
+            "hash": "7e8eec5b0af597f929fe82b912365815943c4179"
+        },
+        {
+            "path": "mods/tweakeroo-fabric-26.1.2-0.28.4.jar",
+            "hash": "dd1317e828362792c7c6bf0532f46957632e3cd7"
+        },
+        {
+            "path": "mods/xaerominimap-fabric-26.1.2-26.1.0.jar",
+            "hash": "f571961e0971a01631857ae14b29283a5a71754d"
+        },
+        {
+            "path": "mods/xaeroworldmap-fabric-26.1.2-1.41.0.jar",
+            "hash": "b1c6d48813a827b67fb67b31917a060311e8ecc5"
+        },
+        {
+            "path": "mods/yet_another_config_lib_v3-3.9.4%2B26.1-fabric.jar",
+            "hash": "c167cc420d29af5d30a23ce9feb1330a25ce06db"
+        },
+        {
+            "path": "servers.dat",
+            "hash": "4b4ff988c82a99e3ab372aff5798e00a593bd86f"
+        }
+    ],
+    "addons": [
+        {
+            "id": "game",
+            "version": "26.1.2"
+        },
+        {
+            "id": "fabric",
+            "version": "0.19.3"
+        }
+    ]
 }

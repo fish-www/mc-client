@@ -1,8 +1,8 @@
 {
     "name": "aer",
     "author": "fish",
-    "version": "1.0.7",
-    "description": "添加了金蒲公英",
+    "version": "1.0.8",
+    "description": "移除了流体 mod，更新了流体包裹 mod，重新生成了 voxy 数据，增加了缩放 mod，快捷键绑定到鼠标侧键 5",
     "fileApi": "https://fish-share.oss-cn-hangzhou.aliyuncs.com/mc/aer/modpack-lite",
     "files": [
         {
@@ -28,6 +28,10 @@
         {
             "path": "config/yes_steve_model-client.toml",
             "hash": "0b84464e97832d7415d08674cb0c53fb86410954"
+        },
+        {
+            "path": "config/zume.json5",
+            "hash": "1fcaaf9e71691c07d96d3e72481fc0db89af25d6"
         },
         {
             "path": "kubejs/README.txt",
@@ -398,12 +402,8 @@
             "hash": "3d7890fa10d71a2dff2a25b19a9bc259261989e0"
         },
         {
-            "path": "mods/fluid-1.2.4.jar",
-            "hash": "101b5a14e2ae32fdcb34fefe2f9480c2025bfca5"
-        },
-        {
-            "path": "mods/fluidlogistics-1.0.5.jar",
-            "hash": "1771ab1f66b61e564d8e65fbecbf784b1a6021d6"
+            "path": "mods/fluidlogistics-1.0.9.jar",
+            "hash": "e087249dca05495f6515fd85c5d8170b17046f63"
         },
         {
             "path": "mods/forgified-fabric-api-0.116.7%2B2.2.4%2B1.21.1.jar",
@@ -519,7 +519,7 @@
         },
         {
             "path": "mods/neo-voxy-0.2.0.jar",
-            "hash": "dfc467afc5b3329fc12a833830eca44efcb354c7"
+            "hash": "3cb32269e58106cd81ac054dce384be759294a48"
         },
         {
             "path": "mods/net_music_list-2.3.4.jar",
@@ -662,8 +662,12 @@
             "hash": "c067f0939ba6d215f5e9076400e7c7725979dbe3"
         },
         {
+            "path": "mods/zume-1.2.2.jar",
+            "hash": "zume-1.2.2.jar"
+        },
+        {
             "path": "options.txt",
-            "hash": "463ccd1a483766faf99238a3680eb0d339d6b46c"
+            "hash": "e0052a5157c46a9e04fcb6d8147f8ea6aab3c6f2"
         },
         {
             "path": "resourcepacks/机械动力：航空学汉化1.0fix7.zip",

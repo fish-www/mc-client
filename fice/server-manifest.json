@@ -1,8 +1,8 @@
 {
     "name": "fice",
     "author": "fish",
-    "version": "0.1.1",
-    "description": "初始配置",
+    "version": "0.2.0",
+    "description": "升级 mc 到 26.2",
     "fileApi": "https://fish-share.oss-cn-hangzhou.aliyuncs.com/mc/fice/modpack",
     "files": [
         {
@@ -18,156 +18,136 @@
             "hash": "517916c1f2e0a8b75735859edb7d692bba2c079e"
         },
         {
-            "path": "mods/BetterF3-18.0.2-Fabric-26.1.jar",
-            "hash": "383ecca24482d1b1385ad25127fe78a0607a34c0"
+            "path": "mods/BetterF3-19.0.0-Fabric-26.2.jar",
+            "hash": "f3e0c3dc93a2c5fba86f8796bd127076df6287b4"
         },
         {
-            "path": "mods/CustomSkinLoader_Universal-14.28.jar",
-            "hash": "b2d9bf46f3d672e2bef26a8e6de55401a7c0818e"
+            "path": "mods/CustomSkinLoader_Universal-15.0.1.jar",
+            "hash": "ab8dd841cafc3b4ecbf0250d3f5aee8a1fdb506a"
         },
         {
-            "path": "mods/IMBlocker-7.1.5-fabric-26.1%2B.jar",
-            "hash": "02ec2f2856e0bce584bc80e36420e1b6b8102d0f"
+            "path": "mods/IMBlocker-7.1.7-fabric-26.1%2B.jar",
+            "hash": "867e28a1317c442a5813cbe02ef29677fffa3790"
         },
         {
-            "path": "mods/InventoryProfilesNext-fabric-26.1.2-2.3.3.jar",
-            "hash": "ecfa5afed58b06e5929ffacec8a1116b7f08527f"
+            "path": "mods/InventoryProfilesNext-fabric-26.2-2.3.5.jar",
+            "hash": "c1278ddd631b3aa05480028585420f13eb7b4623"
         },
         {
-            "path": "mods/Jade-mc26.1-Fabric-26.1.4.jar",
-            "hash": "55ea7b226495d807f2c95e03acca187aa17a1eaa"
+            "path": "mods/Jade-mc26.2-Fabric-26.2.9.jar",
+            "hash": "f207c7350e29683db11b25ca3d909e49e19b3715"
         },
         {
-            "path": "mods/XaeroPlus-2.32.0%2Bfabric-26.1.2-WM1.41.0-MM26.1.0.jar",
-            "hash": "0e62185cefa6ee92e00ca397f994158fa439b4ca"
+            "path": "mods/XaeroPlus-2.34.5%2Bfabric-26.2-WM1.44.2-MM26.4.2.jar",
+            "hash": "c13b2e4453b0b0cd19af703193c6f081ec1ad8bf"
         },
         {
-            "path": "mods/appleskin-fabric-mc26.1.2-3.0.10.jar",
-            "hash": "8100276373646b6740bf20be59e9d8ed7ba24579"
+            "path": "mods/appleskin-fabric-mc26.2-3.0.10.jar",
+            "hash": "03a635bae2c5a5e66825a35ff130242752054b32"
         },
         {
-            "path": "mods/bettertab-2.2.0%2B26.1.2.jar",
-            "hash": "957536bcecd47925d42cba027d8de70b25ebfd9f"
+            "path": "mods/bettertab-2.2.1%2B26.2.jar",
+            "hash": "9e9a2dbea9c1518650392e07c88ea76b4ad88895"
         },
         {
-            "path": "mods/carpet-ams-addition-v26.1.4-beta.3-mc26.1.2.jar",
-            "hash": "49fb85031601bd86c303cffe545b4cff7c003d7e"
+            "path": "mods/carpet-ams-addition-v26.2-mc26.2.jar",
+            "hash": "95d1d6f191f7010ed062b96e8c34016b71a35fd7"
         },
         {
-            "path": "mods/carpet-org-addition-mc26.1.x-v1.44.0-2604242113.jar",
-            "hash": "308d2e163b4e74043e540b9df42f9bd5df1b2f9f"
+            "path": "mods/carpet-org-addition-mc26.2.x-v1.45.1-2606231614.jar",
+            "hash": "c424282f715556d1a9a7bdf1b57ae8b3034693be"
         },
         {
-            "path": "mods/carpetgui-1.3.5-hotfix%2B26.1.jar",
-            "hash": "67429e1cc52a58e6da691f2251243a9ae7452512"
+            "path": "mods/cloth-config-26.2.155.jar",
+            "hash": "babcf16dbd15e09d326e21ffe85ab3f7d843ef9e"
         },
         {
-            "path": "mods/carry.jar",
-            "hash": "6592a0d19be043982ec27bce38c7216007c0a322"
+            "path": "mods/entityculling-fabric-1.10.5-mc26.2.jar",
+            "hash": "f66f9d8cbb1f76466aaf45e46fb11b18207e3aef"
         },
         {
-            "path": "mods/cloth-config-26.1.154.jar",
-            "hash": "832f9047bc4af13587709c74f7c37e1c8579d1eb"
+            "path": "mods/fabric-api-0.155.2%2B26.2.jar",
+            "hash": "a2bf116a5beeb27245c1a36985aa05d729f78926"
         },
         {
-            "path": "mods/entityculling-fabric-1.10.2-mc26.1.jar",
-            "hash": "389764754270070655fa5874b9df79f9f0a30ce4"
+            "path": "mods/fabric-carpet-26.2%2Bv260616.jar",
+            "hash": "cf66116e59f7fc68a8d9287c619067c685539df1"
         },
         {
-            "path": "mods/fabric-api-0.152.1%2B26.1.2.jar",
-            "hash": "e48e773ec41ec1267fd8833fe90c256648cf74d0"
-        },
-        {
-            "path": "mods/fabric-carpet-26.1%2Bv260402.jar",
-            "hash": "f786a53c97e7caaa5b34c94309e79ed1201c0114"
-        },
-        {
-            "path": "mods/fabric-language-kotlin-1.13.12%2Bkotlin.2.4.0.jar",
-            "hash": "2bc17bb4275cc70a12e4ac35d139a71a30845720"
+            "path": "mods/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar",
+            "hash": "620cb137a9dc69ce86f3114f19d9eedab16366f5"
         },
         {
             "path": "mods/ferritecore-9.0.0-fabric.jar",
             "hash": "eac76ff0f3753422c61b2c44487d0d195d88d4bc"
         },
         {
-            "path": "mods/gugle-carpet-addition-v2.12.4%2Bbuild.88.jar",
-            "hash": "8ae6b43a8a438eb079cc9567ec70782e50d77348"
+            "path": "mods/gugle-carpet-addition-v2.12.6%2Bbuild.94.jar",
+            "hash": "54df4ce126f9a744243b85d71fcfaf22ad025c5d"
         },
         {
-            "path": "mods/iris-fabric-1.10.9%2Bmc26.1.1.jar",
-            "hash": "c30e04509a1b284372cb9037b07714d4223ae91a"
+            "path": "mods/iris-fabric-1.11.2%2Bmc26.2.jar",
+            "hash": "f7d526b1062c4bfe2567113cf933d1de26eddd3f"
         },
         {
-            "path": "mods/jecharacters-26.1.2-fabric-4.6.3.jar",
-            "hash": "8bbe2e12c6dca3c0d3c73d6685060929e697099e"
+            "path": "mods/jei-26.2-fabric-30.13.0.79.jar",
+            "hash": "65944eebba0c6ebf8079a9490d1a99f03bfea382"
         },
         {
-            "path": "mods/jei-26.1.2-fabric-29.6.2.31.jar",
-            "hash": "1de8d3d19f11102b8ea174a0fbc5da0744e34d36"
+            "path": "mods/libIPN-fabric-26.2-6.8.2.jar",
+            "hash": "0915dc94c81044025f43a1ab2118b2c6c8a97710"
         },
         {
-            "path": "mods/libIPN-fabric-26.1.2-6.8.0.jar",
-            "hash": "a4511c57a44de7728fd71d16ec62a7fddaeeb366"
+            "path": "mods/litematica-fabric-26.2-0.28.4.jar",
+            "hash": "a7f32029d38325b451d27072997f14aa2c3d3286"
         },
         {
-            "path": "mods/librarian-trade-finder-2.5.0.jar",
-            "hash": "98612c4168d5a5f68d53a76acbb717456870e568"
+            "path": "mods/litematica-printer-26.2-3.2.2.jar",
+            "hash": "e3f26fa6e0328059cbb6bfaf6fc1d0ffaac1a6d7"
         },
         {
-            "path": "mods/litematica-fabric-26.1.2-0.27.6.jar",
-            "hash": "1700788ad1bcfd4f90a4f9f29ecb4ee5f65928a8"
+            "path": "mods/lithium-fabric-0.25.2%2Bmc26.2.jar",
+            "hash": "3bcc94183d7068395de08915fd5fce8d199aaa50"
         },
         {
-            "path": "mods/litematica-printer-26.1.1-3.2.2.jar",
-            "hash": "5a55cae5f9c1099f283292cb1f70dc492487f386"
+            "path": "mods/malilib-fabric-26.2-0.29.3.jar",
+            "hash": "c5a86e2c868d8918265361694eebbb73eee6c861"
         },
         {
-            "path": "mods/lithium-fabric-0.24.5%2Bmc26.1.2.jar",
-            "hash": "1e4ca81344096b2ba70a378a24fe6ce189ff86f3"
+            "path": "mods/minihud-fabric-26.2-0.40.4.jar",
+            "hash": "1a2fb33bcea6aabaf46b30930504e4efc7e19c88"
         },
         {
-            "path": "mods/malilib-fabric-26.1.2-0.28.6.jar",
-            "hash": "20b171995795c5938baa48e41a0932d3144dd7df"
+            "path": "mods/modmenu-20.0.1.jar",
+            "hash": "8562dee49eae1a6bdd14b026be1b300aedb5ce0f"
         },
         {
-            "path": "mods/minihud-fabric-26.1.2-0.39.5.jar",
-            "hash": "ae50ab655a2223d10f5428284f5e6712f15e924c"
+            "path": "mods/placeholder-api-3.1.0-beta.1%2B26.2.jar",
+            "hash": "99b57ccc1d4323c4ef71887828dac25ce4ce2103"
         },
         {
-            "path": "mods/modmenu-18.0.0-beta.1.jar",
-            "hash": "52fff4a942dd42d4bdb6d149d0396cbf2ce69016"
+            "path": "mods/sodium-fabric-0.9.1%2Bmc26.2.jar",
+            "hash": "14f3388694fa77f870d28262f74562de67eabcbe"
         },
         {
-            "path": "mods/owo-lib-0.13.0%2B26.1.jar",
-            "hash": "71d435de2aaa7c71767cd3f8388547eac5acc404"
+            "path": "mods/tweakermore-v3.32.0-beta.1-mc26.2.jar",
+            "hash": "12e2ddae2fedf6e52bbdade18ae8554c43fc90ef"
         },
         {
-            "path": "mods/placeholder-api-3.0.0%2B26.1.jar",
-            "hash": "c1ce548549ec4517b9393985cefc65389e6f36d8"
+            "path": "mods/tweakeroo-fabric-26.2-0.29.2.jar",
+            "hash": "14f2a075cef7270cfdaebc00d7066415f4ac5721"
         },
         {
-            "path": "mods/sodium-fabric-0.8.12%2Bmc26.1.2.jar",
-            "hash": "cd6c6236f0dcff03c7148414db220de32c934b5a"
+            "path": "mods/xaerominimap-fabric-26.2-26.4.2.jar",
+            "hash": "2c1f7688658101cc7e76b8469016bbebcf176a58"
         },
         {
-            "path": "mods/tweakermore-v3.31.0-mc26.1.2.jar",
-            "hash": "7e8eec5b0af597f929fe82b912365815943c4179"
+            "path": "mods/xaeroworldmap-fabric-26.2-1.44.2.jar",
+            "hash": "c003a5a6bcad9b876bf356d99fbaee664d72d1a4"
         },
         {
-            "path": "mods/tweakeroo-fabric-26.1.2-0.28.4.jar",
-            "hash": "dd1317e828362792c7c6bf0532f46957632e3cd7"
-        },
-        {
-            "path": "mods/xaerominimap-fabric-26.1.2-26.1.0.jar",
-            "hash": "f571961e0971a01631857ae14b29283a5a71754d"
-        },
-        {
-            "path": "mods/xaeroworldmap-fabric-26.1.2-1.41.0.jar",
-            "hash": "b1c6d48813a827b67fb67b31917a060311e8ecc5"
-        },
-        {
-            "path": "mods/yet_another_config_lib_v3-3.9.4%2B26.1-fabric.jar",
-            "hash": "c167cc420d29af5d30a23ce9feb1330a25ce06db"
+            "path": "mods/yet_another_config_lib_v3-3.9.6%2B26.2-fabric.jar",
+            "hash": "40887775504751acd752545e6370a76ca3b5bda9"
         },
         {
             "path": "options.txt",
@@ -181,7 +161,7 @@
     "addons": [
         {
             "id": "game",
-            "version": "26.1.2"
+            "version": "26.2"
         },
         {
             "id": "fabric",

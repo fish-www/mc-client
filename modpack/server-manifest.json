@@ -1,8 +1,8 @@
 {
     "name": "aer",
     "author": "fish",
-    "version": "1.1.3",
-    "description": "添加了机械动力附属 mod（履带、雷达），添加了大量森罗物语附属 mod（国味、烟火、兼容、次元酒窖、血酒、画拓展、幽匿），添加了节气兼容 mod（现在降雨粒子可以正确渲染了），添加了大量优化 mod",
+    "version": "1.2.0",
+    "description": "加入服务端配置文件（如 kubjs、oei），使本地存档拥有和服务器存档一样的体验",
     "fileApi": "https://fish-share.oss-cn-hangzhou.aliyuncs.com/mc/aer/modpack",
     "files": [
         {
@@ -482,6 +482,22 @@
             "hash": "872dd9db13e67f41b836d5991e07078f3d03fdfb"
         },
         {
+            "path": "config/biomesoplenty/biome_toggles.json",
+            "hash": "b8753e8be82b88908ef2c0159844f8930a777fbc"
+        },
+        {
+            "path": "config/create-stuff-additions.toml",
+            "hash": "f34ce12ed25c5610dd53294e36abe173d4b97b84"
+        },
+        {
+            "path": "config/eclipticseasons-common.toml",
+            "hash": "73321f6a418db02b1f303cc83df7f3de5eb3c321"
+        },
+        {
+            "path": "config/incontrol/spawn.json",
+            "hash": "16249d94c92da092914e80ca2fa909866d110627"
+        },
+        {
             "path": "config/minihud.json",
             "hash": "85f9b30066235517b991d0c501f6df256cef8eb0"
         },
@@ -548,6 +564,22 @@
         {
             "path": "kubejs/server_scripts/main.js",
             "hash": "6249ded51466cfc7b94ae9796f8c2caec5dac539"
+        },
+        {
+            "path": "kubejs/server_scripts/ore.js",
+            "hash": "2577d9ba6db5dec996b0b65ea43d0a98ef2ad54a"
+        },
+        {
+            "path": "kubejs/server_scripts/recipe_enchanted_golden_apple.js",
+            "hash": "2c717d79735fe51b8a2910f58a0515be372feedd"
+        },
+        {
+            "path": "kubejs/server_scripts/recipes_create.js",
+            "hash": "d42082c75debc2980b916a222fb8aff8652b0a06"
+        },
+        {
+            "path": "kubejs/server_scripts/recipes_tf.js",
+            "hash": "5a4d2d7b9b0f4ae53091f9712ebe54d33e019a36"
         },
         {
             "path": "kubejs/startup_scripts/golden_dandelion.js",
@@ -1304,6 +1336,22 @@
         {
             "path": "shaderpacks/photon_v1.3b.zip",
             "hash": "d975d25c9686de5f10e8b86c8518613cdf3f040a"
+        },
+        {
+            "path": "world/datapacks/OEIBF/data/oef/replacements/replacements.json",
+            "hash": "1aced3e2fda8dfec09d4496c7a25ac37afa5559a"
+        },
+        {
+            "path": "world/datapacks/OEIBF/data/oei/replacements/food_unification.json",
+            "hash": "d9b542e9567336fa6a8449484e13ff31984ae3b3"
+        },
+        {
+            "path": "world/datapacks/OEIBF/data/oei/replacements/replacements.json",
+            "hash": "dff5c778af7aa24b9a73ebe3f625f671227277e2"
+        },
+        {
+            "path": "world/datapacks/OEIBF/pack.mcmeta",
+            "hash": "02903374a32cd269fe97f3855728456d179cdaa6"
         },
         {
             "path": "xaero/world-map/Multiplayer_frp-web.com/DIM-1/dimension_config.txt",

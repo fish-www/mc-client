@@ -1,1 +1,0 @@
-jq '.files |= sort_by(.path)' $1 > $1.tmp && mv $1.tmp $1

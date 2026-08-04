@@ -107,7 +107,7 @@
         },
         {
             "path": "kubejs/server_scripts/recipes_create.js",
-            "hash": "d42082c75debc2980b916a222fb8aff8652b0a06"
+            "hash": "b230f1f4948228ce615f96a806da8d3a349cb43a"
         },
         {
             "path": "kubejs/server_scripts/recipes_tf.js",

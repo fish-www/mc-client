@@ -1,8 +1,8 @@
 {
     "name": "aer",
     "author": "fish",
-    "version": "1.2.1",
-    "description": "修复幻翼物流、无人机物流与流体包裹的适配问题，添加了机械动力：（集成农业、中央厨房、喷气背包）、航空学：破风、星宝石兽跑轮、新生乐事、元素魔艺，多人服务器列表增加了测试服",
+    "version": "1.2.2",
+    "description": "ccb 更新至 v0.0.9（修复了工厂仪表上限无法修改的问题），neoforge 更新至 21.1.248",
     "fileApi": "https://fish-share.oss-cn-hangzhou.aliyuncs.com/mc/aer/modpack-lite",
     "files": [
         {

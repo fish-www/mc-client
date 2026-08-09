@@ -1,8 +1,8 @@
 {
     "name": "aer",
     "author": "fish",
-    "version": "1.3.0",
-    "description": "切换为使用域名连接服务器，避免 frp 节点更换带来的问题",
+    "version": "1.3.1",
+    "description": "chunky 生成半径 7000，生成新的 voxy 和 map 数",
     "fileApi": "https://fish-share.oss-cn-hangzhou.aliyuncs.com/mc/aer/modpack",
     "files": [
         {

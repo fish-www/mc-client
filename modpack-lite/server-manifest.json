@@ -18,6 +18,10 @@
             "hash": "b8753e8be82b88908ef2c0159844f8930a777fbc"
         },
         {
+            "path": "config/carryon-common.toml",
+            "hash": "6920490150755075806a110160801eb219da7e26"
+        },
+        {
             "path": "config/create-stuff-additions.toml",
             "hash": "f34ce12ed25c5610dd53294e36abe173d4b97b84"
         },

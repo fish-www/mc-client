@@ -862,12 +862,20 @@
             "hash": "3e56c097cd0c5be61b767a9a9ae73ae083d2eca9"
         },
         {
+            "path": "kubejs/assets/dragon_head/lang/zh_cn.json",
+            "hash": "5f223a35c6d1a67cfaa2a869e88ee656adb5c955"
+        },
+        {
             "path": "kubejs/assets/golden_dandelion/lang/zh_cn.json",
             "hash": "6d1fcc79674d71531061a118d8935f324a561b89"
         },
         {
             "path": "kubejs/assets/golden_dandelion/textures/item/golden_dandelion.png",
             "hash": "1fb6ac946af84c1702360b19f0000b0f72f2263e"
+        },
+        {
+            "path": "kubejs/assets/kaleidoscope_end/lang/zh_cn.json",
+            "hash": "43ed81f0d36a6344b0ee09a1c15efcbe525a470a"
         },
         {
             "path": "kubejs/assets/kubejs/textures/block/example_block.png",
@@ -915,7 +923,7 @@
         },
         {
             "path": "kubejs/server_scripts/recipes_create.js",
-            "hash": "b230f1f4948228ce615f96a806da8d3a349cb43a"
+            "hash": "6e4a0c7ce9860a37da71561bcca8933675436ecf"
         },
         {
             "path": "kubejs/server_scripts/recipes_ore.js",
@@ -924,6 +932,10 @@
         {
             "path": "kubejs/server_scripts/recipes_tf.js",
             "hash": "5a4d2d7b9b0f4ae53091f9712ebe54d33e019a36"
+        },
+        {
+            "path": "kubejs/startup_scripts/dragon_head.js",
+            "hash": "1c1be8a32714fea7984db18db2d339c627bcbec1"
         },
         {
             "path": "kubejs/startup_scripts/golden_dandelion.js",

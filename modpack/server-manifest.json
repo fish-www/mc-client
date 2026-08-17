@@ -1,8 +1,8 @@
 {
     "name": "aer",
     "author": "fish",
-    "version": "1.4.0",
-    "description": "从阿里云迁移到 cloudflare，添加遗体 mod",
+    "version": "1.4.1",
+    "description": "添加若干配方，如末影龙头序列组装、不同等级不详之瓶合成等",
     "fileApi": "https://fish-share.fish-www.com/mc/aer/modpack",
     "files": [
         {

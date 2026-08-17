@@ -1,9 +1,9 @@
 {
     "name": "aer",
     "author": "fish",
-    "version": "1.4.0",
-    "description": "从阿里云迁移到 cloudflare，添加遗体 mod",
-    "fileApi": "https://fish-share.fish-www.com/mc/aer/modpack",
+    "version": "1.4.1",
+    "description": "添加若干配方，如末影龙头序列组装、不同等级不详之瓶合成等",
+    "fileApi": "https://fish-share.fish-www.com/mc/aer/modpack-lite",
     "files": [
         {
             "path": "config/RuOK.toml",
@@ -20,6 +20,10 @@
         {
             "path": "config/carryon-common.toml",
             "hash": "6920490150755075806a110160801eb219da7e26"
+        },
+        {
+            "path": "config/create-server.toml",
+            "hash": "789f5d9f5438a3a511f1737cd90e4a02032430fd"
         },
         {
             "path": "config/create-stuff-additions.toml",
@@ -58,12 +62,20 @@
             "hash": "3e56c097cd0c5be61b767a9a9ae73ae083d2eca9"
         },
         {
+            "path": "kubejs/assets/dragon_head/lang/zh_cn.json",
+            "hash": "5f223a35c6d1a67cfaa2a869e88ee656adb5c955"
+        },
+        {
             "path": "kubejs/assets/golden_dandelion/lang/zh_cn.json",
             "hash": "6d1fcc79674d71531061a118d8935f324a561b89"
         },
         {
             "path": "kubejs/assets/golden_dandelion/textures/item/golden_dandelion.png",
             "hash": "1fb6ac946af84c1702360b19f0000b0f72f2263e"
+        },
+        {
+            "path": "kubejs/assets/kaleidoscope_end/lang/zh_cn.json",
+            "hash": "43ed81f0d36a6344b0ee09a1c15efcbe525a470a"
         },
         {
             "path": "kubejs/assets/kubejs/textures/block/example_block.png",
@@ -111,11 +123,19 @@
         },
         {
             "path": "kubejs/server_scripts/recipes_create.js",
-            "hash": "b230f1f4948228ce615f96a806da8d3a349cb43a"
+            "hash": "6e4a0c7ce9860a37da71561bcca8933675436ecf"
+        },
+        {
+            "path": "kubejs/server_scripts/recipes_ore.js",
+            "hash": "6f56a20d8405a5e7edf4eeb9f3e02c9e7719bdd8"
         },
         {
             "path": "kubejs/server_scripts/recipes_tf.js",
             "hash": "5a4d2d7b9b0f4ae53091f9712ebe54d33e019a36"
+        },
+        {
+            "path": "kubejs/startup_scripts/dragon_head.js",
+            "hash": "1c1be8a32714fea7984db18db2d339c627bcbec1"
         },
         {
             "path": "kubejs/startup_scripts/golden_dandelion.js",
@@ -911,7 +931,7 @@
         },
         {
             "path": "world/datapacks/OEIBF/data/oef/replacements/replacements.json",
-            "hash": "1aced3e2fda8dfec09d4496c7a25ac37afa5559a"
+            "hash": "c333e0891fd6808ff573d219bc4618cdc1c848ca"
         },
         {
             "path": "world/datapacks/OEIBF/data/oei/replacements/food_unification.json",

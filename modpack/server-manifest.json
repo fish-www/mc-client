@@ -822,6 +822,10 @@
             "hash": "6920490150755075806a110160801eb219da7e26"
         },
         {
+            "path": "config/create-server.toml",
+            "hash": "789f5d9f5438a3a511f1737cd90e4a02032430fd"
+        },
+        {
             "path": "config/create-stuff-additions.toml",
             "hash": "f34ce12ed25c5610dd53294e36abe173d4b97b84"
         },

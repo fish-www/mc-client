@@ -918,6 +918,10 @@
             "hash": "b230f1f4948228ce615f96a806da8d3a349cb43a"
         },
         {
+            "path": "kubejs/server_scripts/recipes_ore.js",
+            "hash": "6f56a20d8405a5e7edf4eeb9f3e02c9e7719bdd8"
+        },
+        {
             "path": "kubejs/server_scripts/recipes_tf.js",
             "hash": "5a4d2d7b9b0f4ae53091f9712ebe54d33e019a36"
         },
